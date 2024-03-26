@@ -24,5 +24,11 @@
 
 ![Capture](https://github.com/radmanplays/MeteorX-ts/assets/95340057/29416c59-5578-4264-98a2-9ba569330438)
 
-7. Type this link:
-undefined
+7. Type this link on the window that will appear on the screen top:
+https://raw.githubusercontent.com/EduardoMegaPlays556/MeteorX-TS-Eaglerreborn/main/meteorx.js
+
+8. Click ok
+   
+9. Optional: Refresh the GUI to see if the plugin loaded correctly.
+
+10. press "right shift" to open the gui
